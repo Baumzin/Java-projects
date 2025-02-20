@@ -1,2 +1,3 @@
 # Java-projects
-Este repositório armazenará atividades e lições sobre a linguagem de programação Java.
+This repository will store activities and lessons about the Java programming language.
+
